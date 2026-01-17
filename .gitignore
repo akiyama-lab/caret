@@ -136,3 +136,7 @@ dmypy.json
 # Visual Studio Code
 .vscode/
 log/
+
+# Generate by CARET
+caret_topic_filter.bash
+setenv_caret.bash
